@@ -1,0 +1,8 @@
+========== ELECTRICITY BILL ==========
+Customer Name: Isiah
+Account Number: 123456
+Electricity Usage: 350.00 kWh
+Electricity Charge: $51.00
+Late-Payment Fee: $25.00
+Total Amount Due: $76.00
+======================================
